@@ -1,4 +1,4 @@
-Building StrixFy and myself at the same time.
+Building myself.
 Every project is a mirror the bugs, the breakthroughs, the patterns.
 The mission isn’t perfection, it’s evolution.
 It all compounds. I’m not chasing luck, I’m engineering inevitability.
